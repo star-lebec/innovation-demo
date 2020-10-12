@@ -29,7 +29,7 @@ siteMeta =
              , baseUrl = "https://glebec.github.io/innovation-demo/"
              , siteTitle = "Innovation Blog"
              , twitterHandle = Nothing
-             , githubUser = Just "glebec"
+             , githubUser = Nothing
              }
 
 outputFolder :: FilePath
